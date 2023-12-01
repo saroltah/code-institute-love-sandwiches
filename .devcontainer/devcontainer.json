@@ -34,7 +34,7 @@
           "editor.defaultFormatter": "HookyQR.beautify",
           "python.linting.pycodestyleEnabled": true,
           "python.terminal.activateEnvironment": false,
-          "workbench.iconTheme": "none"
+          "workbench.iconTheme": null
         }
       }
     },
